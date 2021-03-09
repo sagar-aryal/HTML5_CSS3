@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0 auto;
+}
+#randomPokemon {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+}
+
+button {
+  background-color: chocolate;
+  padding: 10px 100px;
+  border-radius: 5px;
+  font-size: 15px;
+}
